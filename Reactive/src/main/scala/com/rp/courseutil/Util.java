@@ -25,7 +25,11 @@ public class Util {
     }
 
     public static void sleepSeconds(int seconds) throws InterruptedException {
-        Thread.sleep(1000);
+        sleepMillis(seconds * 1000);
+    }
+
+    public static void sleepMillis(int millis) throws InterruptedException {
+        Thread.sleep(millis);
     }
 
     public static Subscriber<Object> subscriber(String name){
