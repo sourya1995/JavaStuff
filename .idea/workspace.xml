@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="83d28f4b-c45d-4000-ac1e-d50dee6ab21d" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CheckNullReferences/src/CheckNullReferences.java" beforeDir="false" afterPath="$PROJECT_DIR$/CheckNullReferences/src/CheckNullReferences.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CheckNullReferences/src/CheckNullRefsFunctional.java" beforeDir="false" afterPath="$PROJECT_DIR$/CheckNullReferences/src/CheckNullRefsFunctional.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CheckNullReferences/src/CheckNullRefsV2.java" beforeDir="false" afterPath="$PROJECT_DIR$/CheckNullReferences/src/CheckNullRefsV2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CheckNullRefsPOJO/src/CheckNullRefsPOJO.java" beforeDir="false" afterPath="$PROJECT_DIR$/CheckNullRefsPOJO/src/CheckNullRefsPOJO.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CheckNullRefsPOJO/src/CheckNullRefsPOJOV2.java" beforeDir="false" afterPath="$PROJECT_DIR$/CheckNullRefsPOJO/src/CheckNullRefsPOJOV2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CountDuplicateChars/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CountDuplicateChars/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CountDuplicateChars/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CountDuplicateChars/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CountDuplicateChars/CountDuplicateChars.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CountDuplicateChars/src/CountDuplicateChars.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CountDuplicateChars/src/CountDuplicateCharsWithStreams.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CountDuplicateChars/src/CountDuplicateCharsWithStreamsUnicode.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CountDuplicateChars/src/CountDuplicateCharsWithUnicode.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FirstNonRepeatedCharacter/src/FirstNonRepeatedCharacter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FlightInfo/src/FlightInfo.java" beforeDir="false" afterPath="$PROJECT_DIR$/FlightInfo/src/FlightInfo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/GetAllUTCandGMT/src/GetAllUTCandGMT.java" beforeDir="false" afterPath="$PROJECT_DIR$/GetAllUTCandGMT/src/GetAllUTCandGMT.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Hello/src/main/kotlin/Hello1.kts" beforeDir="false" afterPath="$PROJECT_DIR$/Hello/src/main/kotlin/Hello1.kts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MakeAStringMutable/src/MakeAStringMutable.java" beforeDir="false" afterPath="$PROJECT_DIR$/MakeAStringMutable/src/MakeAStringMutable.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Melon/src/FindElementInArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/Melon/src/FindElementInArray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Melon/src/FindIndexInArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/Melon/src/FindIndexInArray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Melon/src/Melon.java" beforeDir="false" afterPath="$PROJECT_DIR$/Melon/src/Melon.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="29WKFYSrSifgoxTHpWEORwyqwTf" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/johnw/OneDrive/Desktop/JavaStuff&quot;
+  }
+}</component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="83d28f4b-c45d-4000-ac1e-d50dee6ab21d" name="Changes" comment="" />
+      <created>1653223299128</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1653223299128</updated>
+    </task>
+    <servers />
+  </component>
+</project>
